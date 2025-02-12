@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harichandana-hari
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently in my 3rd year of Btech CSE
 
 <!---
